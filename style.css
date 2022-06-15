@@ -13,7 +13,7 @@
 .gameContainer {
     display: flex;
     justify-content: center;
-    margin: 20px 5px 10px;
+    margin: 50px 5px 10px;
 }
 
 .grid {
